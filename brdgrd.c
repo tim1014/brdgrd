@@ -44,8 +44,8 @@
 /* global config variables */
 static int verbose = 0;
 static int queue_number = 0;
-static int window_min = 60;
-static int window_max = 90;
+static int window_min = 500;
+static int window_max = 1500;
 static uint16_t new_window = 0;
 
 
